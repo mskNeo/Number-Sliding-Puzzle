@@ -1,5 +1,5 @@
 # Nine20
-A C program that solves the square number puzzle.
+A C program that solves the square number puzzle by outputting the steps as strings to the standard output. Run 'make' to get the 'Nine20' executable.
 
 ## The Nine Puzzle
 The Nine Puzzle is a square 3x3 tray in which are placed 8 square 1x1
