@@ -1,8 +1,8 @@
-# Nine20
+# Number Sliding PUzzle
 A C program that solves the square number puzzle by outputting the steps as strings to the standard output. This program utilizes a hash table ADT to store possible moves of the strings and breadth-first search to reach the goal.
 
-## The Nine Puzzle
-The Nine Puzzle is a square 3x3 tray in which are placed 8 square 1x1 tiles numbered from 1 to 8.  The remaining space is empty, so an adjacent tile can slide into that space, leaving its former location empty. A
+## The Number Sliding Puzzle Puzzle
+The Number Sliding Puzzle is a square tray in which are placed (number of squares - 1) square 1x1 tiles numbered from 1 to (number of squares - 1).  The remaining space is empty, so an adjacent tile can slide into that space, leaving its former location empty. In most cases, these are 3x3 trays with the numbers 1-8 and an empty slot.
 
 ## Making the Program
 Run `make` to get the executables `Nine20` and `testHash`.
