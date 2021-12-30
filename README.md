@@ -1,4 +1,4 @@
-# Number Sliding PUzzle
+# Number Sliding Puzzle
 A C program that solves the square number puzzle by outputting the steps as strings to the standard output. This program utilizes a hash table ADT to store possible moves of the strings and breadth-first search to reach the goal.
 
 ## The Number Sliding Puzzle Puzzle
